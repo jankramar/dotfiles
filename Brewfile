@@ -31,6 +31,11 @@ cask 'torbrowser'
 cask 'vagrant'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
+cask 'spotify'
+cask 'appcleaner'
+cask 'flux'
+cask 'visual-studio-code'
+
 
 cask 'qlcolorcode' 
 cask 'qlstephen'
