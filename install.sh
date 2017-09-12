@@ -8,8 +8,10 @@ if test ! $(which brew); then
 fi
 
 brew update
+brew upgrade
 brew tap homebrew/bundle
 brew bundle
+brew cleanup
 
 # ZSH
 chsh -s $(which zsh)
